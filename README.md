@@ -30,6 +30,6 @@ Step 3: Start the React App
 Finally, you can start the React app by running:
 
 ```bash
-npm start=
+npm start
 ```
 This command starts the development server and opens up your new React application in your default browser.
