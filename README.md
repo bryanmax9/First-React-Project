@@ -1,8 +1,6 @@
 # First-React-Project
 
-# Project Name
-
-Description of your project.
+Setting up and learning how create React App
 
 ## Prerequisites
 - Node.js installed on your system. If it's not installed, you can download and install it from the official [Node.js website](https://nodejs.org/).
